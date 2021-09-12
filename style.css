@@ -92,18 +92,6 @@ body{
     padding-right: 250px;
 }
 
-/*================== MAIN ====================*/
-
-#main{
-    margin-top: 119px;
-    background: url('images/background%20picture.png');
-}
-
-#content{
-    padding-top: 1px;
-    padding-bottom: 50px;
-}
-
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,600,400italic);
 * {
   margin: 0;
