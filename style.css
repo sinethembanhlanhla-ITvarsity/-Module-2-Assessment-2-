@@ -13,7 +13,6 @@ body{
     width   : 100%;
     height: 80px;
     background-image: url('images/background%20picture.png');
-    bachground-repeat: repeat-x;
 }
 
 #header img{
@@ -52,7 +51,16 @@ body{
 #main-home{
     margin-top: 120px;
 }
-    
+
+#pictures{
+    position: absolute;
+    top: 200px;
+}
+
+#pictures img{
+    padding: 10px;
+}
+
 /*============ BOTTOM TABS ============*/
 
 #tabs-bottom{
