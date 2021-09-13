@@ -32,6 +32,7 @@ body{
     width   : 100%;
     height  : 80px;
     background-color: bisque; 
+    padding-top: 8px;
 }
 
 #tabs-top a{
@@ -43,7 +44,7 @@ body{
     color      : white;
     text-align : center;
     text-decoration: none;
-    padding-top    : 0px;
+    padding-top    : 8px;
 }
 
 /*============ MAIN-HOME ============*/
