@@ -43,15 +43,15 @@ body{
     color      : white;
     text-align : center;
     text-decoration: none;
-    padding-top    : 1px;
+    padding-top    : 12px;
 }
 
 /*============ MAIN-HOME ============*/
 
 #main-home{
-    margin-top: 120px;
+    margin-top: 120px; 
 }
-
+    
 #pictures{
     position: absolute;
     top: 200px;
@@ -60,7 +60,7 @@ body{
 #pictures img{
     padding: 10px;
 }
-
+    
 /*============ BOTTOM TABS ============*/
 
 #tabs-bottom{
@@ -90,7 +90,7 @@ body{
     padding-right: 250px;
 }
 
-/*==================== MAIN ====================*/
+/*================== MAIN ====================*/
 
 #main{
     margin-top: 119px;
