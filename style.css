@@ -95,7 +95,6 @@ body{
 #main{
     margin-top: 119px;
     background: url('images/background%20picture.png');
-    background-repeat: repeat-y;
 }
 
 #content{
